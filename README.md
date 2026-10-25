@@ -1,23 +1,26 @@
-# Hi, I'm Zaiba Muskan 👋
+<div align="center">
 
-### AI Applications · Data Analytics · Software Engineering
+# Zaiba Muskan
 
-**Python · SQL · FastAPI · React · PostgreSQL · Recommendation Systems**
+**AI Applications · Data Analytics · Software Engineering**
 
-I build data-driven applications that turn real-world problems into useful software products. I'm interested in the intersection of data, backend systems, recommendation engines, and AI-powered applications.
+<sub>Python · SQL · FastAPI · React · PostgreSQL · Recommendation Systems</sub>
 
-<p align="left">
-  <a href="https://github.com/zmuskan">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
-  </a>
-</p>
+<br/>
+
+I build data-driven applications that turn real-world problems into useful software products.<br/>
+My interests sit at the intersection of data, backend systems, recommendation engines, and AI-powered applications.
+
+<br/>
+
+<a href="https://github.com/zmuskan"><img src="https://img.shields.io/badge/GitHub-zmuskan-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=30363d" alt="GitHub profile: zmuskan"/></a>
+<a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+
+</div>
 
 ---
 
-<h2 align="center">zmuskan@github ~ $ cat about.md</h2>
+<h3 align="center"><code>zmuskan@github ~ $ cat about.md</code></h3>
 
 ```yaml
 name: Zaiba Muskan
@@ -49,78 +52,57 @@ open_to:
 
 ---
 
-<h2 align="center">zmuskan@github ~ $ ls ./flagship-projects</h2>
+<h3 align="center"><code>zmuskan@github ~ $ ls ./flagship-projects</code></h3>
 
 <table>
   <tr>
-    <th>Project</th>
-    <th>What it demonstrates</th>
-    <th>Technology stack</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/zmuskan/NIVAAS-V1"><b>NIVAAS</b></a><br/>
-      Urban Intelligence Platform
+    <td width="50%" valign="top">
+      <h4>📍 <a href="https://github.com/zmuskan/NIVAAS-V1">NIVAAS</a></h4>
+      <sub><b>Urban Intelligence Platform</b></sub>
+      <p>Helps users evaluate Bengaluru localities through rental data, locality characteristics, and recommendation workflows.</p>
+      <ul>
+        <li>Rental and locality-level data analysis</li>
+        <li>Feature engineering for locality characteristics</li>
+        <li>Geospatial data and accessibility analysis</li>
+        <li>Scoring and locality recommendation logic</li>
+        <li>Full-stack application development</li>
+      </ul>
+      <sub><b>Stack:</b> Python · FastAPI · PostgreSQL · PostGIS · React · TypeScript</sub>
+      <br/><br/>
+      <a href="https://github.com/zmuskan/NIVAAS-V1"><img src="https://img.shields.io/badge/View_repository-NIVAAS--V1-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=2ea043" alt="View the NIVAAS-V1 repository"/></a>
     </td>
-    <td>
-      Bengaluru rental insights, locality feature engineering, geospatial analytics, and locality recommendation workflows.
+    <td width="50%" valign="top">
+      <h4>⚖️ <a href="https://github.com/zmuskan/ANSME">ANSME</a></h4>
+      <sub><b>Product Comparison &amp; Decision Support</b></sub>
+      <p>Extracts product information and compares alternatives using structured analysis.</p>
+      <ul>
+        <li>Product information extraction from web content</li>
+        <li>Backend APIs for product analysis</li>
+        <li>Custom scoring and comparison logic</li>
+        <li>Pairwise comparisons, verdicts, strengths, and weaknesses</li>
+        <li>Request and response validation</li>
+      </ul>
+      <sub><b>Stack:</b> Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Pydantic</sub>
+      <br/><br/>
+      <a href="https://github.com/zmuskan/ANSME"><img src="https://img.shields.io/badge/View_repository-ANSME-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=2ea043" alt="View the ANSME repository"/></a>
     </td>
-    <td>Python · FastAPI · PostgreSQL · PostGIS · React · TypeScript</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/zmuskan/ANSME"><b>ANSME</b></a><br/>
-      Product Comparison & Decision Support
-    </td>
-    <td>
-      Product information extraction, structured analysis, custom scoring, pairwise comparisons, and strengths-and-weaknesses evaluation.
-    </td>
-    <td>Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Pydantic</td>
   </tr>
 </table>
 
-### 01 / NIVAAS
-
-An urban intelligence platform focused on helping users evaluate Bengaluru localities through rental data, locality characteristics, and recommendation workflows.
-
-- Rental and locality-level data analysis
-- Feature engineering for locality characteristics
-- Geospatial data and accessibility analysis
-- Scoring and locality recommendation logic
-- Full-stack application development
-
-**Explore:** [NIVAAS-V1 repository](https://github.com/zmuskan/NIVAAS-V1)
-
-### 02 / ANSME
-
-A product comparison and decision-support application designed to extract product information and compare alternatives using structured analysis.
-
-- Product information extraction from web content
-- Backend APIs for product analysis
-- Custom scoring and comparison logic
-- Pairwise comparisons, verdicts, strengths, and weaknesses
-- Request and response validation
-
-**Explore:** [ANSME repository](https://github.com/zmuskan/ANSME)
-
-*LLM, RAG, and agent-based features are not presented as implemented functionality.*
-
 ---
 
-<h2 align="center">zmuskan@github ~ $ cat stack.txt</h2>
+<h3 align="center"><code>zmuskan@github ~ $ cat stack.txt</code></h3>
 
-### Programming & Data
-
-<p>
+<p align="center"><b>Programming &amp; Data</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-### Backend & Databases
-
-<p>
+<p align="center"><b>Backend &amp; Databases</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/PostGIS-008BB9?style=for-the-badge" alt="PostGIS"/>
@@ -128,9 +110,8 @@ A product comparison and decision-support application designed to extract produc
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic"/>
 </p>
 
-### Frontend & Tools
-
-<p>
+<p align="center"><b>Frontend &amp; Tools</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
@@ -140,25 +121,26 @@ A product comparison and decision-support application designed to extract produc
 
 ---
 
-<h2 align="center">zmuskan@github ~ $ ./stats.sh</h2>
+<!-- OPTIONAL: GitHub stats. Delete everything from here to the matching END comment if you prefer not to show them. -->
+
+<h3 align="center"><code>zmuskan@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmuskan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zmuskan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics for zmuskan" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmuskan&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages on GitHub" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmuskan&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages"/>
+  <img src="https://streak-stats.demolab.com?user=zmuskan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for zmuskan"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zmuskan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+<!-- END OPTIONAL: GitHub stats -->
 
 ---
 
-<h2 align="center">zmuskan@github ~ $ contact --open</h2>
+<h3 align="center"><code>zmuskan@github ~ $ contact --open</code></h3>
 
-<p>
+<p align="center">
   <a href="https://github.com/zmuskan">GitHub</a> ·
   <a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/">LinkedIn</a> ·
   <a href="https://github.com/zmuskan/NIVAAS-V1">NIVAAS</a> ·
