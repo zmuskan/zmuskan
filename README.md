@@ -14,6 +14,7 @@
 
 <a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/"><img src="https://img.shields.io/badge/LINKEDIN-3D1028?style=for-the-badge&logo=linkedin&logoColor=F4DDE7" alt="LinkedIn"/></a>
 <a href="https://github.com/zmuskan"><img src="https://img.shields.io/badge/GITHUB-3D1028?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="GitHub"/></a>
+<a href="mailto:zaibamuskan60@gmail.com"><img src="https://img.shields.io/badge/EMAIL-3D1028?style=for-the-badge&logo=gmail&logoColor=F4DDE7" alt="Email"/></a>
 <a href="https://nivaas-nivaas1.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_NIVAAS-C06C91?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore NIVAAS"/></a>
 
 </div>
@@ -22,13 +23,13 @@
 
 <div align="center">
 
-## ✦ A LITTLE ABOUT ME ✦
+## ✦ ABOUT ME ✦
 
 </div>
 
-I'm a Chemical Engineering graduate transitioning into software and data engineering, with a focus on building complete, practical applications.
+I build data-driven applications that turn complex information into useful decisions.
 
-My work combines **Python, SQL, data modeling, feature engineering, backend APIs, recommendation systems, and full-stack development**. I enjoy understanding a problem from the data layer upward: how information is collected, structured, analyzed, and ultimately turned into a useful decision.
+My work combines **Python, SQL, data modeling, feature engineering, backend APIs, recommendation systems, geospatial analytics, and full-stack development**. I focus on building practical systems, from structuring data and developing analytical logic to integrating APIs and deploying applications.
 
 Currently building and refining two flagship projects: **NIVAAS**, an urban intelligence platform, and **ANSME**, a product comparison and decision-support application.
 
@@ -36,7 +37,7 @@ Currently building and refining two flagship projects: **NIVAAS**, an urban inte
 <tr>
 <td width="50%" valign="top">
 
-### ❀ My Engineering Interests
+### ❀ Engineering Interests
 
 - Data engineering and SQL
 - Backend systems and REST APIs
@@ -49,7 +50,7 @@ Currently building and refining two flagship projects: **NIVAAS**, an urban inte
 </td>
 <td width="50%" valign="top">
 
-### ✧ My Current Goals
+### ✧ Current Goals
 
 - Build production-minded projects
 - Strengthen software engineering fundamentals
@@ -76,10 +77,10 @@ Currently building and refining two flagship projects: **NIVAAS**, an urban inte
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/zmuskan/NIVAAS-V1">
-<img src="https://raw.githubusercontent.com/zmuskan/NIVAAS-V1/main/docs/images/screenshots/logo1.png" width="112" alt="NIVAAS project logo"/>
+<img src="https://raw.githubusercontent.com/zmuskan/NIVAAS-V1/main/docs/images/screenshots/logo1.png" width="100" alt="NIVAAS project logo"/>
 </a>
 
-### N I V A A S
+### [NIVAAS](https://github.com/zmuskan/NIVAAS-V1)
 
 **Urban Intelligence & Locality Recommendation Platform**
 
@@ -89,7 +90,7 @@ NIVAAS helps users evaluate rental localities in Bengaluru through rental analyt
 
 **What I built**
 
-- A structured rental-data and locality domain
+- Structured rental-data and locality domain
 - Locality feature engineering and scoring
 - Geospatial data workflows using PostGIS
 - Recommendation logic for locality discovery
@@ -97,22 +98,20 @@ NIVAAS helps users evaluate rental localities in Bengaluru through rental analyt
 
 **Technology**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,postgis,react,ts,vite,docker,vercel&theme=dark" alt="NIVAAS technology icons" width="100%"/>
-
 <sub>Python · FastAPI · Supabase PostgreSQL · PostGIS · React · TypeScript · Vite · Zustand · Axios · TanStack Router · scikit-learn · NumPy · Docker · Vercel · Render</sub>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/zmuskan/NIVAAS-V1"><img src="https://img.shields.io/badge/EXPLORE_SOURCE-3D1028?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="Explore NIVAAS source code"/></a>
+<a href="https://github.com/zmuskan/NIVAAS-V1"><img src="https://img.shields.io/badge/REPOSITORY-3D1028?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="NIVAAS repository"/></a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/zmuskan/ANSME">
-<img src="https://raw.githubusercontent.com/zmuskan/ANSME/main/frontend/src/assets/favicon-6.png" width="112" alt="ANSME project logo"/>
+<img src="https://raw.githubusercontent.com/zmuskan/ANSME/main/frontend/src/assets/favicon-6.png" width="100" alt="ANSME project logo"/>
 </a>
 
-### A N S M E
+### [ANSME](https://github.com/zmuskan/ANSME)
 
 **Product Intelligence & Comparison Engine**
 
@@ -123,21 +122,19 @@ ANSME extracts product information from URLs and helps users compare alternative
 **What I built**
 
 - Web-based product information extraction
-- A custom product analysis and scoring pipeline
+- Custom product analysis and scoring pipeline
 - Pairwise comparison and winner determination
 - Price, rating, and verdict analysis
 - FastAPI request/response handling
-- A React and TypeScript user interface
+- React and TypeScript user interface
 
 **Technology**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,vite,docker&theme=dark" alt="ANSME technology icons" width="100%"/>
-
 <sub>Python · FastAPI · PostgreSQL · SQLAlchemy · Pydantic · BeautifulSoup · Trafilatura · React · TypeScript · Vite · Docker</sub>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/zmuskan/ANSME"><img src="https://img.shields.io/badge/EXPLORE_SOURCE-801D4F?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="Explore ANSME source code"/></a>
+<a href="https://github.com/zmuskan/ANSME"><img src="https://img.shields.io/badge/REPOSITORY-801D4F?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="ANSME repository"/></a>
 
 </td>
 </tr>
@@ -149,7 +146,7 @@ ANSME extracts product information from URLs and helps users compare alternative
 
 ## ✦ TECHNOLOGY ARSENAL ✦
 
-*Tools used across my projects and development work.*
+*Technologies used across my projects and development work.*
 
 </div>
 
@@ -158,10 +155,6 @@ ANSME extracts product information from URLs and helps users compare alternative
 <td width="25%" valign="top">
 
 **01 · Languages & Data**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" alt="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="42" alt="NumPy"/>
 
 - Python
 - SQL
@@ -172,10 +165,6 @@ ANSME extracts product information from URLs and helps users compare alternative
 <td width="25%" valign="top">
 
 **02 · Backend & Storage**
-
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="42" alt="FastAPI"/>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" alt="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" alt="Docker"/>
 
 - FastAPI
 - PostgreSQL
@@ -188,10 +177,6 @@ ANSME extracts product information from URLs and helps users compare alternative
 <td width="25%" valign="top">
 
 **03 · Frontend**
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" alt="React"/>
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="42" alt="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="42" alt="Vite"/>
 
 - React
 - TypeScript
@@ -206,10 +191,6 @@ ANSME extracts product information from URLs and helps users compare alternative
 
 **04 · Delivery & Workflow**
 
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="42" alt="Vercel"/>
-
 - Docker
 - GitHub
 - Vercel
@@ -222,6 +203,12 @@ ANSME extracts product information from URLs and helps users compare alternative
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,fastapi,react,ts,vite,docker,git,github&perline=9" alt="Selected technology icons"/>
+
+</div>
+
 ---
 
 <div align="center">
@@ -231,7 +218,7 @@ ANSME extracts product information from URLs and helps users compare alternative
 <img src="https://github-readme-stats.vercel.app/api?username=zmuskan&show_icons=true&hide_border=true&bg_color=1A1017&title_color=E8B8CB&icon_color=C06C91&text_color=F5EAF0&rank_icon=github" alt="GitHub statistics" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmuskan&layout=compact&hide_border=true&bg_color=1A1017&title_color=E8B8CB&text_color=F5EAF0" alt="Most-used languages" width="49%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmuskan&hide_border=true&background=1A1017&ring=C06C91&fire=E8B8CB&currStreakLabel=E8B8CB&sideLabels=F5EAF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BCA8B2" alt="GitHub contribution streak" width="70%"/>
 
@@ -241,20 +228,29 @@ ANSME extracts product information from URLs and helps users compare alternative
 
 <div align="center">
 
-## ✦ BEYOND THE CODE ✦
+## ✦ CONTRIBUTION GARDEN ✦
 
-*Curiosity first. Build, test, refine.*
+<img src="https://raw.githubusercontent.com/zmuskan/zmuskan/output/github-contribution-grid-snake-pink.svg" alt="Pink snake moving across my GitHub contribution grid" width="100%"/>
 
-I believe good engineering is not just about choosing a framework. It's about understanding the problem, designing a sound solution, validating the results, and continuously improving the system.
+</div>
 
-<br/>
+---
 
-<a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/"><img src="https://img.shields.io/badge/LET'S_CONNECT-3D1028?style=for-the-badge&logo=linkedin&logoColor=F4DDE7" alt="Connect on LinkedIn"/></a>
-<a href="https://github.com/zmuskan"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-C06C91?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/></a>
+<div align="center">
+
+## ✦ LET'S CONNECT ✦
+
+Open to opportunities in data engineering, backend development, analytics, and AI applications.
+
+<a href="mailto:zaibamuskan60@gmail.com"><img src="https://img.shields.io/badge/EMAIL-3D1028?style=for-the-badge&logo=gmail&logoColor=F4DDE7" alt="Email Zaiba"/></a>
+<a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/"><img src="https://img.shields.io/badge/LINKEDIN-3D1028?style=for-the-badge&logo=linkedin&logoColor=F4DDE7" alt="LinkedIn profile"/></a>
+<a href="https://github.com/zmuskan"><img src="https://img.shields.io/badge/GITHUB-C06C91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1028,50:801D4F,100:C06C91&height=130&section=footer" width="100%" alt="Burgundy and rose footer"/>
+*Curiosity first. Build, test, refine.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1028,50:801D4F,100:C06C91&height=110&section=footer" width="100%" alt="Burgundy and rose footer"/>
 
 <sub>ZAIBA MUSKAN D.M. · BUILT WITH CURIOSITY & INTENTION</sub>
 
