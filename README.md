@@ -1,6 +1,11 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1028,35:801D4F,70:C06C91,100:E8C7D2&height=250&section=header&text=Zaiba%20Muskan%20D.M.&fontSize=54&fontColor=FFF8F4&fontAlignY=37&desc=DATA%20ENGINEERING%20%20%E2%9C%A6%20%20APPLIED%20AI%20%20%E2%9C%A6%20%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=59&animation=twinkling&fontFamily=Georgia" width="100%" alt="Zaiba Muskan D.M. — Data Engineering, Applied AI and Software Engineering"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation"/>
 
 <br/>
 
@@ -154,29 +159,33 @@ ANSME extracts product information from URLs and helps users compare alternative
 <tr>
 <td width="25%" valign="top">
 
-**01 · Languages & Data**
+**01 · Data & Analytics**
 
 - Python
 - SQL
 - NumPy
+- Pandas
 - scikit-learn
+- Feature Engineering
+- Recommendation Systems
 
 </td>
 <td width="25%" valign="top">
 
-**02 · Backend & Storage**
+**02 · Backend & Data Systems**
 
 - FastAPI
 - PostgreSQL
-- Supabase
 - PostGIS
+- Supabase
 - SQLAlchemy
 - Pydantic
+- REST APIs
 
 </td>
 <td width="25%" valign="top">
 
-**03 · Frontend**
+**03 · Application Development**
 
 - React
 - TypeScript
@@ -189,15 +198,15 @@ ANSME extracts product information from URLs and helps users compare alternative
 </td>
 <td width="25%" valign="top">
 
-**04 · Delivery & Workflow**
+**04 · DevOps & Delivery**
 
 - Docker
+- Git
 - GitHub
 - Vercel
 - Render
-- AI-assisted development
-- Prompt-driven iteration
-- Debugging and integration
+- API Integration
+- Testing & Debugging
 
 </td>
 </tr>
@@ -228,9 +237,13 @@ ANSME extracts product information from URLs and helps users compare alternative
 
 <div align="center">
 
-## ✦ CONTRIBUTION GARDEN ✦
+## ✦ CONTRIBUTION ARCADE ✦
 
-<img src="https://raw.githubusercontent.com/zmuskan/zmuskan/output/github-contribution-grid-snake-pink.svg" alt="Pink snake moving across my GitHub contribution grid" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zmuskan/zmuskan/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zmuskan/zmuskan/output/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/zmuskan/zmuskan/output/pacman-contribution-graph.svg" alt="Animated Pac-Man contribution graph" width="100%"/>
+</picture>
 
 </div>
 
