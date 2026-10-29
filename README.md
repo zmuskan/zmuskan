@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1028,35:801D4F,70:C06C91,100:E8C7D2&height=250&section=header&text=Zaiba%20Muskan%20D.M.&fontSize=54&fontColor=FFF8F4&fontAlignY=37&desc=DATA%20ENGINEERING%20%20%E2%9C%A6%20%20APPLIED%20AI%20%20%E2%9C%A6%20%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=59&animation=twinkling&fontFamily=Georgia" width="100%" alt="Zaiba Muskan D.M. — Data Engineering, Applied AI and Software Engineering"/>
@@ -13,10 +12,15 @@
 
 <br/>
 
+<a href="https://sage-axolotl-20ebd5.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN_WEBSITE-801D4F?style=for-the-badge&logo=netlify&logoColor=F4DDE7" alt="Visit portfolio"/></a>
 <a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/"><img src="https://img.shields.io/badge/LINKEDIN-3D1028?style=for-the-badge&logo=linkedin&logoColor=F4DDE7" alt="LinkedIn"/></a>
 <a href="https://github.com/zmuskan"><img src="https://img.shields.io/badge/GITHUB-3D1028?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="GitHub"/></a>
 <a href="mailto:zaibamuskan60@gmail.com"><img src="https://img.shields.io/badge/EMAIL-3D1028?style=for-the-badge&logo=gmail&logoColor=F4DDE7" alt="Email"/></a>
+
+<br/><br/>
+
 <a href="https://nivaas-nivaas1.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_NIVAAS-C06C91?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore NIVAAS"/></a>
+<a href="https://ansme-five.vercel.app/"><img src="https://img.shields.io/badge/TRY_ANSME-801D4F?style=for-the-badge&logo=vercel&logoColor=white" alt="Try ANSME"/></a>
 
 </div>
 
@@ -77,7 +81,7 @@ Currently building and refining two flagship projects: **NIVAAS**, an urban inte
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/zmuskan/NIVAAS-V1">
+<a href="https://nivaas-nivaas1.vercel.app/">
 <img src="https://raw.githubusercontent.com/zmuskan/NIVAAS-V1/main/docs/images/screenshots/logo1.png" width="100" alt="NIVAAS project logo"/>
 </a>
 
@@ -108,7 +112,7 @@ NIVAAS helps users evaluate rental localities in Bengaluru through rental analyt
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/zmuskan/ANSME">
+<a href="https://ansme-five.vercel.app/">
 <img src="https://raw.githubusercontent.com/zmuskan/ANSME/main/frontend/src/assets/favicon-6.png" width="100" alt="ANSME project logo"/>
 </a>
 
@@ -116,7 +120,7 @@ NIVAAS helps users evaluate rental localities in Bengaluru through rental analyt
 
 **Product Intelligence & Comparison Engine**
 
-<a href="https://github.com/zmuskan/ANSME"><img src="https://img.shields.io/badge/VIEW_PROJECT-801D4F?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="ANSME repository"/></a>
+<a href="https://ansme-five.vercel.app/"><img src="https://img.shields.io/badge/LIVE_APPLICATION-801D4F?style=for-the-badge&logo=vercel&logoColor=F4DDE7" alt="ANSME live application"/></a>
 
 ANSME extracts product information from URLs and helps users compare alternatives through structured analysis, custom scoring, price and rating evaluation, and deterministic verdicts.
 
@@ -242,6 +246,12 @@ ANSME extracts product information from URLs and helps users compare alternative
 ## ✦ LET'S CONNECT ✦
 
 Open to opportunities in data engineering, backend development, analytics, and AI applications.
+
+<a href="https://sage-axolotl-20ebd5.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-3D1028?style=for-the-badge&logo=netlify&logoColor=F4DDE7" alt="Portfolio website"/></a>
+<a href="https://nivaas-nivaas1.vercel.app/"><img src="https://img.shields.io/badge/NIVAAS-C06C91?style=for-the-badge&logo=vercel&logoColor=white" alt="NIVAAS live app"/></a>
+<a href="https://ansme-five.vercel.app/"><img src="https://img.shields.io/badge/ANSME-801D4F?style=for-the-badge&logo=vercel&logoColor=white" alt="ANSME live app"/></a>
+
+<br/><br/>
 
 <a href="mailto:zaibamuskan60@gmail.com"><img src="https://img.shields.io/badge/EMAIL-3D1028?style=for-the-badge&logo=gmail&logoColor=F4DDE7" alt="Email Zaiba"/></a>
 <a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/"><img src="https://img.shields.io/badge/LINKEDIN-3D1028?style=for-the-badge&logo=linkedin&logoColor=F4DDE7" alt="LinkedIn profile"/></a>
