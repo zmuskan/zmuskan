@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="https://sage-axolotl-20ebd5.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN_WEBSITE-801D4F?style=for-the-badge&logo=netlify&logoColor=F4DDE7" alt="Visit portfolio"/></a>
+<a href="https://wispr-flow-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN_WEBSITE-801D4F?style=for-the-badge&logo=netlify&logoColor=F4DDE7" alt="Visit portfolio"/></a>
 <a href="https://www.linkedin.com/in/zaiba-muskan-dm-983055388/"><img src="https://img.shields.io/badge/LINKEDIN-3D1028?style=for-the-badge&logo=linkedin&logoColor=F4DDE7" alt="LinkedIn"/></a>
 <a href="https://github.com/zmuskan"><img src="https://img.shields.io/badge/GITHUB-3D1028?style=for-the-badge&logo=github&logoColor=F4DDE7" alt="GitHub"/></a>
 <a href="mailto:zaibamuskan60@gmail.com"><img src="https://img.shields.io/badge/EMAIL-3D1028?style=for-the-badge&logo=gmail&logoColor=F4DDE7" alt="Email"/></a>
